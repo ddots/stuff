@@ -1,3 +1,5 @@
-- [x] taska
+
+
+- [ ] taska
 - [ ] task b 
 
