@@ -1,7 +1,8 @@
 - [x] leetcode easy (daily, dl: 04.04)
 
-- [ ] leetcode 4 left (weekly, dl: 04.04)
+- [ ] leetcode 3 left (weekly, dl: 04.04)
 - [x] Speech and Language Processing: chapter 2 (weekly)
+- [ ] N-Gram language model (weekly, deadline: 04.04)
 
 - [ ] Fluent Python 1 pass (monthly, deadline: 04.28)
 - [ ] 4 blogs (monthly, deadline: 04.28)
