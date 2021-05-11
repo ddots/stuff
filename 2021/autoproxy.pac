@@ -5,6 +5,7 @@ var rules = [
   "||cip.cc",
   "||stackoverflow.org",
   "||pypi.org",
+  "||cloudiplc.com",
   "||twitter.cn",
   "||bt.byr.cn",
   "||geeksforgeeks.org",
