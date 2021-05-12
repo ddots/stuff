@@ -167,6 +167,7 @@ var rules = [
   "|http:\/\/www.nbc.com\/live",
   "||neo-miracle.com",
   "||netflix.com",
+  "||fast.com",
   "||nflximg.com",
   "||nflximg.net",
   "||nflxext.com",
