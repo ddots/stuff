@@ -7,6 +7,7 @@ var rules = [
   "||stackoverflow.org",
   "||pypi.org",
   "||cloudiplc.com",
+  "||ipinfo.io",
   "||twitter.cn",
   "||bt.byr.cn",
   "||geeksforgeeks.org",
