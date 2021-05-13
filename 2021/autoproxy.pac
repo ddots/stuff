@@ -8,6 +8,7 @@ var rules = [
   "||pypi.org",
   "||cloudiplc.com",
   "||ipinfo.io",
+  "||aiplc.me",
   "||twitter.cn",
   "||bt.byr.cn",
   "||geeksforgeeks.org",
