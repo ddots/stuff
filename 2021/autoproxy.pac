@@ -11,6 +11,7 @@ var rules = [
   "||aiplc.me",
   "||twitter.cn",
   "||bt.byr.cn",
+  "||loli.net",
   "||geeksforgeeks.org",
   "||leetcode.com",
   "||spotify.com",
