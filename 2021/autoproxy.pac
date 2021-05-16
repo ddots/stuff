@@ -62,7 +62,6 @@ var rules = [
   "||crossfire.co.kr",
   "||d2pass.com",
   "||google.com"
-  "||nfcloud.net"
   "||darpa.mil",
   "||dawangidc.com",
   "||deezer.com",
