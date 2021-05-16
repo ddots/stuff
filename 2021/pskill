@@ -1,0 +1,11 @@
+#!/bin/bash 
+
+pskill() {
+    pids=$(ps aux|grep $1|grep -v grep|awk '{print $2}')
+    for i in $pids; do 
+        echo "Terminate" $i ": ok"; 
+        kill -9 $i 
+    done
+}
+
+pskill $1
