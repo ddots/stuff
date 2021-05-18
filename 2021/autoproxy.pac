@@ -61,6 +61,7 @@ var rules = [
   "||costco.com",
   "||crossfire.co.kr",
   "||d2pass.com",
+  "||nfcloud"
   "||nfcloud.net"
   "||google.com"
   "||darpa.mil",
